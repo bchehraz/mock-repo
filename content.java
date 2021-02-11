@@ -7,6 +7,6 @@ public class Chvuoo {
         System.out.println("csfxb");
         System.out.println("fxoes");
         System.out.println("rgxnx");
-        System.out.println("rgsqc");
+        System.out.println("risnw");
     }
 }
