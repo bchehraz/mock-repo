@@ -9,6 +9,5 @@ int main() {
         printf("wuofl");
         printf("xrkpr");
         printf("thfqe");
-        printf("fvgyh");
 return 0;
 }
