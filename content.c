@@ -10,6 +10,5 @@ int main() {
         printf("xrkpr");
         printf("lconc");
         printf("xwnhf");
-        printf("lbymh");
 return 0;
 }
