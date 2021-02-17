@@ -6,6 +6,5 @@ public class Chvuoo {
         System.out.println("hpmig");
         System.out.println("fexdf");
         System.out.println("midba");
-        System.out.println("xdphb");
     }
 }
