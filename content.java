@@ -8,6 +8,5 @@ public class Chvuoo {
         System.out.println("fxoes");
         System.out.println("rgxnx");
         System.out.println("cagca");
-        System.out.println("ynfko");
     }
 }
