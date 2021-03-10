@@ -9,6 +9,5 @@ public class Chvuoo {
         System.out.println("rgxnx");
         System.out.println("amksh");
         System.out.println("jkpvb");
-        System.out.println("sghin");
     }
 }
