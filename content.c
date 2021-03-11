@@ -8,6 +8,5 @@ int main() {
         printf("hxrjn");
         printf("wuofl");
         printf("xrkpr");
-        printf("thfqe");
 return 0;
 }
