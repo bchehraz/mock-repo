@@ -6,6 +6,5 @@ int main() {
         printf("daytx");
         printf("byane");
         printf("hxrjn");
-        printf("wteca");
 return 0;
 }
