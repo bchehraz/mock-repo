@@ -5,6 +5,5 @@ int main() {
         printf("mskbw");
         printf("daytx");
         printf("byane");
-        printf("yhdtl");
 return 0;
 }
